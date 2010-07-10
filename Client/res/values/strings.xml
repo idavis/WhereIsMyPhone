@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Dude, Where\'s My Phone?</string>
+<string name="sms_received">android.provider.Telephony.SMS_RECEIVED</string>
+<string name="ping_duration">90000</string>
+<string name="default_trigger">PING</string>
+
+</resources>
